@@ -4,6 +4,7 @@
 @import "components/main.css";
 
 /* screens CSS */
+@import "screens/header.css";
 @import "screens/current-page.css";
 
 body {
