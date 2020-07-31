@@ -8,9 +8,16 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.footer__shortcut {
-  padding: 30px 30px;
+.footer__icon {
+  padding: 30px;
   border-top: 3px solid rgba(150, 150, 150, 0.3);
+}
+.footer__icon i {
+  margin-right: 2px;
+  color: rgba(50, 50, 50, 0.5);
+}
+.footer__shortcut {
+  padding: 30px;
   display: flex;
   justify-content: space-between;
 }
@@ -34,7 +41,7 @@
   align-items: flex-end;
 }
 .below__links {
-  padding: 20px 10px;
+  padding: 5px 10px;
   border-top: 1px solid rgba(100, 100, 100, 0.3);
   height: 20px;
   width: 100%;
