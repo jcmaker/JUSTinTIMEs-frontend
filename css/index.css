@@ -1,0 +1,14 @@
+@import "reset.css";
+
+/* components CSS */
+@import "components/main.css";
+
+/* screens CSS */
+@import "screens/current-page.css";
+
+body {
+  height: 200vh;
+  margin: 10px;
+  background-color: white;
+  font-family: "Times New Roman", Times, serif;
+}
