@@ -46,7 +46,7 @@
   justify-content: center;
   align-items: center;
 }
-.stock,
+.clock,
 .weather {
   width: 20%;
   display: flex;

@@ -14,7 +14,7 @@
 }
 .footer__icon i {
   margin-right: 2px;
-  color: rgba(50, 50, 50, 0.5);
+  opacity: 0.65;
 }
 .footer__shortcut {
   padding: 30px;
